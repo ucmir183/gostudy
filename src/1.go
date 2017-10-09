@@ -1,13 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"strings"
-)
+import "github.com/astaxie/beego"
 
-func main() {
-	d := strings.Index("string", "str")
-
-	fmt.Print(d)
-
-}
+func main
